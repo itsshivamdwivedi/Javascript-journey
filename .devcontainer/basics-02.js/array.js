@@ -11,3 +11,4 @@ myArr.pop() // pop removes last value from an array
 // myArr.unshift(0)
 // console.log(myArr)
 console.log(myArr.includes(8))
+
